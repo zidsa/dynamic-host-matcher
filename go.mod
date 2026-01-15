@@ -1,4 +1,4 @@
-module github.com/hussam/caddy-dynamic-host-matcher
+module github.com/zidsa/caddy-dynamic-host-matcher
 
 go 1.21
 
